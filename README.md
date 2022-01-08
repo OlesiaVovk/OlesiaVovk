@@ -27,7 +27,7 @@ I'm Olesia, I'm a Frontend developer who is passionate about JavaScript and Pyth
 
 
 #### Contacts:
-[![Instagram Badge](https://img.shields.io/badge/-OlesiaVovk-blue?style=flat-square&logo=Instagram&logoColor=white&color=darkblue&link=https://instagram.com/olesia_vovk_it)](https://instagram.com/olesia_vovk_it)
+[![Instagram Badge](https://img.shields.io/badge/-OlesiaVovk-blue?style=flat-square&logo=Instagram&logoColor=white&color=darkblue&link=https://instagram.com/olesia_vovk_dev)](https://instagram.com/olesia_vovk_dev)
 [![Linkedin Badge](https://img.shields.io/badge/-OlesiaVovk-blue?style=flat-square&logo=Linkedin&color=blue&link=https://www.linkedin.com/in/olesia-vovk-1a738a209/)](https://www.linkedin.com/in/olesia-vovk-1a738a209/)
 [![Vkontakte Badge](https://img.shields.io/badge/-OlesiaVovk-blue?style=flat-square&logo=Vk&logoColor=white&color=lightblue&link=https://vk.com/olesiavovk24)](https://vk.com/olesiavovk24)
 
