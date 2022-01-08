@@ -12,7 +12,7 @@ I'm Olesia, I'm a Frontend developer who is passionate about JavaScript and Pyth
   <a href="https://github.com/OlesiaVovk/OlesiaVovk/">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api?username=OlesiaVovk&count_private=true&show_icons=true&custom_title=Github%20Status&title_color=blue&text_color=777"
+      src="https://github-readme-stats.vercel.app/api?username=OlesiaVovk&count_private=true&show_icons=true&custom_title=Olesia's%20Github%20Status&title_color=blue&text_color=777"
       alt="Olesia's GitHub stats"
     />
   </a>
@@ -24,6 +24,7 @@ I'm Olesia, I'm a Frontend developer who is passionate about JavaScript and Pyth
     />
   </a>  
 </p>
+
 
 #### Contacts:
 [![Instagram Badge](https://img.shields.io/badge/-OlesiaVovk-blue?style=flat-square&logo=Instagram&logoColor=white&color=darkblue&link=https://instagram.com/olesia_vovk_it)](https://instagram.com/olesia_vovk_it)
