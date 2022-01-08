@@ -5,7 +5,7 @@ I'm Olesia, I'm a Frontend developer who is passionate about JavaScript and Pyth
 - 🔭 I’m currently working on JavaScript apps/websites
 - 🌱 I’m currently learning JavaScript, ReactJS, and Python
 - 👯 I’m looking to collaborate on something exiting!
-- 💬 Ask me about books, music, films, and foreighn languages
+- 💬 Ask me about music, films, fitness and foreighn languages
 
 
 <p align="justify">
@@ -26,7 +26,7 @@ I'm Olesia, I'm a Frontend developer who is passionate about JavaScript and Pyth
 </p>
 
 #### Contacts:
-[![Instagram Badge](https://img.shields.io/badge/-OlesiaVovk-blue?style=flat-square&logo=Instagram&logoColor=white&color=darkblue&link=https://instagram.com/olesia__vovk)](https://instagram.com/olesia__vovk)
+[![Instagram Badge](https://img.shields.io/badge/-OlesiaVovk-blue?style=flat-square&logo=Instagram&logoColor=white&color=darkblue&link=https://instagram.com/olesia__vovk_it)](https://instagram.com/olesia__vovk_it)
 [![Linkedin Badge](https://img.shields.io/badge/-OlesiaVovk-blue?style=flat-square&logo=Linkedin&color=blue&link=https://www.linkedin.com/in/olesia-vovk-1a738a209/)](https://www.linkedin.com/in/olesia-vovk-1a738a209/)
 [![Vkontakte Badge](https://img.shields.io/badge/-OlesiaVovk-blue?style=flat-square&logo=Vk&logoColor=white&color=lightblue&link=https://vk.com/olesiavovk24)](https://vk.com/olesiavovk24)
 
