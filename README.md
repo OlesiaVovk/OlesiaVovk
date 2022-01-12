@@ -46,5 +46,5 @@ I'm Olesia, I'm a Frontend developer who is passionate about JavaScript and Pyth
 ![Profile Views](https://badges.pufler.dev/visits/OlesiaVovk/OlesiaVovk?style=flat-square&color=green&logo=github)
 
 
-[![OlesiaVovk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OlesiaVovk)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/dd0d6d18-3fdd-4759-8b5e-fa60d2029652.svg)](https://wakatime.com/@dd0d6d18-3fdd-4759-8b5e-fa60d2029652)
 
