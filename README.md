@@ -5,7 +5,6 @@ I'm Olesia, I'm a Frontend developer who is passionate about JavaScript and Pyth
 - 🔭 I’m currently working on JavaScript apps/websites
 - 🌱 I’m currently learning JavaScript, ReactJS, and Python
 - 👯 I’m looking to collaborate on something exiting!
-- 💬 Ask me about music, films, fitness and foreign languages
 
 
 <p align="justify">
