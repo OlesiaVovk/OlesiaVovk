@@ -2,8 +2,7 @@
 
 I'm Olesia, I'm a Frontend developer who is passionate about JavaScript and Python.
 
-- 🔭 I’m currently working on JavaScript apps/websites
-- 🌱 I’m currently learning JavaScript, ReactJS, and Python
+- 🌱 I’m currently working as Frontend Developer
 - 👯 I’m looking to collaborate on something exiting!
 
 
