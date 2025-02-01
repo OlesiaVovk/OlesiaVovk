@@ -1,11 +1,3 @@
-### Hi! 👋
-
-I'm Olesia, I'm a Frontend developer who is passionate about JavaScript and Python.
-
-- 🌱 I’m currently working as Frontend Developer
-- 👯 I’m looking to collaborate on something exiting!
-
-
 <p align="justify">
   <a href="https://github.com/OlesiaVovk/OlesiaVovk/">
     <img
